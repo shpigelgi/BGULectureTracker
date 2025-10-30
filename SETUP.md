@@ -50,7 +50,7 @@ All the source code is ready! Follow these steps to set up the Xcode project.
 4. Replace the default BGULectureTrackerApp.swift:
    - Delete the default one (Move to Trash)
    - **Right-click** on `BGULectureTracker` folder → **"Add Files to BGULectureTracker..."**
-   - Navigate to `~/Personal/BGULectureTracker/BGULectureTracker`
+   - Navigate to `~/Personal/BGULectureTracker/BGULectureTracker-Source`
    - Select **all .swift files** in this folder and the Views subfolder
    - **Check** "Create groups"
    - **Check** "BGULectureTracker" target only
@@ -73,7 +73,7 @@ All the source code is ready! Follow these steps to set up the Xcode project.
    - Expand the `LectureWidget` folder in Project Navigator
    - **Delete** all default widget files (LectureWidget.swift, etc.) - Move to Trash
    - **Right-click** on `LectureWidget` folder → **"Add Files to BGULectureTracker..."**
-   - Navigate to `~/Personal/BGULectureTracker/LectureWidget`
+   - Navigate to `~/Personal/BGULectureTracker/LectureWidget-Source`
    - Select **all .swift files**
    - **Check** "LectureWidget" target only
    - Click **Add**
